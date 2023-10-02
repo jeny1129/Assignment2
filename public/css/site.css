@@ -1,0 +1,21 @@
+
+body {
+    font-family: 'Open Sans', sans-serif; 
+    background-color: #dadada; 
+    color: #7700ff;
+}
+
+h1 {
+    font-size: 48px;
+    color: #FF5733; 
+}
+
+p {
+    font-size: 18px;
+    color: #666; 
+}
+
+a {
+    color: #007BFF; 
+}
+
